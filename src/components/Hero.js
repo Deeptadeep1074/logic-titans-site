@@ -21,7 +21,7 @@ function Hero() {
         <p className="hero-subtitle">
           Logic Titans builds intelligent AI solutions with precision,
           performance, and creativity. Unlock next-gen automation with our
-          advanced SalesIQ bot built for the CliqTrix 2025 challenge.
+          advanced SalesIQ bot built for the CliqTrix 2026 challenge.
         </p>
 
         <button className="btn explore-btn" onClick={scrollToExplore}>
